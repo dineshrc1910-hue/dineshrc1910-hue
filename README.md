@@ -1,8 +1,8 @@
 
-# Hi there 👋, I'm Dinesh
+<h1 align="center">Hi there, I'm Dinesh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Learner;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Building+Real+Projects%2C+Not+Just+Tutorials;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,152 +12,114 @@
   <a href="https://github.com/dineshrc1910-hue?tab=followers">
     <img src="https://img.shields.io/github/followers/dineshrc1910-hue?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/dineshrc1910-hue">
-    <img src="https://img.shields.io/github/stars/dineshrc1910-hue?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/dinesh-s-a2b953364/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
+---
 
-public class Dinesh 
-{
+### 🧑‍💻 About Me
 
-    String role = "Java Developer";
-    String location = "Chennai";
+```java
+public class Dinesh {
+    private String role     = "Java Full Stack Developer (Fresher)";
+    private String location = "Chennai, Tamil Nadu, India";
+    private String goal     = "Land a Java Full Stack Developer role";
 
-    String[] learning = 
-{
-        "Core Java",
-        "Advanced Java",
-        "Spring Boot",
-        "Thymeleaf",
-        "REST APIs",
-        "JDBC",
-        "MySQL",
+    private String[] skills = {
+        "Core Java", "Advanced Java", "Spring Boot",
+        "REST APIs", "JDBC", "MySQL", "Thymeleaf",
         "Data Structures & Algorithms"
-};
+    };
 
-    String goal = "Become a Java Full Stack Developer";
+    public String motto() {
+        return "Consistency beats intensity.";
+    }
 }
+```
+
+- 🎓 B.Com (Computer Applications) + Java Full Stack training @ UNIQ Technologies
+- 🔭 Currently building deployable, portfolio-ready full stack projects
+- 🌱 Sharpening DSA (Java) alongside Spring Boot for interview rounds
+- 💬 Ask me about Java, Spring Boot, or REST API design
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dinesh-s-a2b953364/)
 
 ---
 
-## 🚀 Tech Stack
+### 🛠️ Tech Stack
 
-### Languages
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=java,html,css,mysql" /></p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,html,css,mysql" />
-</p>
+**Frameworks & Tools**
+<p><img src="https://skillicons.dev/icons?i=spring,maven,git,github,idea,eclipse,vscode" /></p>
 
-### Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven,git,github,idea,eclipse,vscode" />
-</p>
-
----
-
-## 📚 Currently Learning
-
-- ☕ Core Java
-- 🚀 Spring Boot
-- 🌿 Thymeleaf
-- 🛢️ MySQL
-- 🔗 JDBC
-- 🌐 REST APIs
-- 📦 Maven
-- 🌳 Git & GitHub
-- 🧠 Data Structures & Algorithms
+| Category   | Skills |
+|------------|--------|
+| Language   | Java |
+| Backend    | Spring Boot, JDBC, REST APIs |
+| Database   | MySQL |
+| Frontend   | HTML, CSS, Thymeleaf |
+| Tools      | Git, GitHub, Maven |
+| IDEs       | IntelliJ IDEA, Eclipse, VS Code |
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🚆 **RailConnect** | Train ticket booking system with seat management and booking workflows | Java Servlets, JDBC, MySQL |
+| 💳 **NovaPay** | Bank management system with a clean, mobile-styled frontend | Spring Boot, MySQL |
+| 🗂️ **Interview Management System** | Full REST API + frontend for tracking candidates and interview rounds, with complete API docs | Spring Boot, MySQL, REST API |
+
+> 📌 Add live demo links and repo links here once deployed — recruiters click through far more often when there's a working link, not just a description.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dineshrc1910-hue&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshrc1910-hue&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dineshrc1910-hue&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshrc1910-hue&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=dineshrc1910-hue&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=dineshrc1910-hue&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshrc1910-hue&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshrc1910-hue&theme=tokyo-night"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dineshrc1910-hue&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dineshrc1910-hue&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
 </p>
 
 ---
 
-## 💻 Skills
+### 🎯 2026 Goals
 
-| Category | Skills |
-|----------|--------|
-| Programming | Java |
-| Backend | Spring Boot, JDBC |
-| Database | MySQL |
-| Web | HTML, CSS |
-| Tools | Git, GitHub, Maven |
-| IDEs | IntelliJ IDEA, Eclipse, VS Code |
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Master Spring Boot
-- ✅ Build 10+ Full Stack Projects
-- ✅ Learn Microservices
-- ✅ Learn Docker
-- ✅ Learn AWS
-- ✅ Contribute to Open Source
-- ✅ Crack a Java Developer Job
+- [x] Master Spring Boot fundamentals
+- [x] Build multiple full stack projects
+- [ ] Deploy at least 3 projects live (AWS/Render)
+- [ ] Learn Docker & basic microservices
+- [ ] Cross 100+ solved DSA problems in Java
+- [ ] Contribute to an open-source repo
+- [ ] Crack a Java Full Stack Developer role
 
 ---
 
-## 🌟 Featured Projects
-
-> 🚧 Coming Soon...
-
-- Java Banking System
-- Student Management System
-- Employee Management System
-- Spring Boot REST API
-- E-Commerce Backend
-
----
-
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 <p align="left">
-<a href="https://github.com/dineshrc1910-hue">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+  <a href="https://github.com/dineshrc1910-hue"><img src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="https://www.linkedin.com/in/dinesh-s-a2b953364/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
 
 ---
 
-## 💭 Quote
+<p align="center"><i>"Success doesn't come from what you do occasionally. It comes from what you do consistently."</i></p>
 
-> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."**
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
-````
+<p align="center">⭐ Thanks for visiting my profile! ⭐</p>
