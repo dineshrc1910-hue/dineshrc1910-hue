@@ -18,12 +18,14 @@
 </p>
 
 
-public class Dinesh {
+public class Dinesh 
+{
 
     String role = "Java Developer";
-    String location = "India";
+    String location = "Chennai";
 
-    String[] learning = {
+    String[] learning = 
+{
         "Core Java",
         "Advanced Java",
         "Spring Boot",
@@ -32,7 +34,7 @@ public class Dinesh {
         "JDBC",
         "MySQL",
         "Data Structures & Algorithms"
-    };
+};
 
     String goal = "Become a Java Full Stack Developer";
 }
