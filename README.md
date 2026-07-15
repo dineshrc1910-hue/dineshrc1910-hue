@@ -1,4 +1,4 @@
-````markdown
+
 # Hi there 👋, I'm Dinesh
 
 <p align="center">
@@ -17,11 +17,7 @@
   </a>
 </p>
 
----
 
-## 👨‍💻 About Me
-
-```java
 public class Dinesh {
 
     String role = "Java Developer";
@@ -40,7 +36,6 @@ public class Dinesh {
 
     String goal = "Become a Java Full Stack Developer";
 }
-```
 
 ---
 
