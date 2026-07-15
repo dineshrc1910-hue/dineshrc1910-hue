@@ -66,17 +66,7 @@ public class Dinesh {
 
 ---
 
-### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🚆 **RailConnect** | Train ticket booking system with seat management and booking workflows | Java Servlets, JDBC, MySQL |
-| 💳 **NovaPay** | Bank management system with a clean, mobile-styled frontend | Spring Boot, MySQL |
-| 🗂️ **Interview Management System** | Full REST API + frontend for tracking candidates and interview rounds, with complete API docs | Spring Boot, MySQL, REST API |
-
-> 📌 Add live demo links and repo links here once deployed — recruiters click through far more often when there's a working link, not just a description.
-
----
 
 ### 📊 GitHub Stats
 
@@ -120,6 +110,6 @@ public class Dinesh {
 
 ---
 
-<p align="center"><i>"Success doesn't come from what you do occasionally. It comes from what you do consistently."</i></p>
+<p align="center"><i>"Success is not achieved through occasional actions.It is the result of consistent efforts over time.."</i></p>
 
 <p align="center">⭐ Thanks for visiting my profile! ⭐</p>
