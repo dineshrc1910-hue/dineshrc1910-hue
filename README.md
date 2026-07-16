@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dinesh 👋</h1>
+<h1 align="center">Hi there, I'm 👋</h1>
 
 <p align="center">
   <img src="banner.svg" width="548" height="107" alt="Animated banner" />
